@@ -1,0 +1,22 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+MLFlow-env/
+venv/
+.env
+
+# MLflow
+mlruns/
+mlartifacts/
+mlflow.db
+
+# Logs & temp
+*.log
+logs/
+tmp/
+
+# OS / editor
+.ipynb_checkpoints
+.vscode/
